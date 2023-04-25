@@ -1,0 +1,15 @@
+C:\Users\izzataa\source\repos\PizzaMizzaApp\PizzaMizza.Data\obj\Debug\net6.0\PizzaMizza.Data.csproj.AssemblyReference.cache
+C:\Users\izzataa\source\repos\PizzaMizzaApp\PizzaMizza.Data\obj\Debug\net6.0\PizzaMizza.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izzataa\source\repos\PizzaMizzaApp\PizzaMizza.Data\obj\Debug\net6.0\PizzaMizza.Data.AssemblyInfoInputs.cache
+C:\Users\izzataa\source\repos\PizzaMizzaApp\PizzaMizza.Data\obj\Debug\net6.0\PizzaMizza.Data.AssemblyInfo.cs
+C:\Users\izzataa\source\repos\PizzaMizzaApp\PizzaMizza.Data\obj\Debug\net6.0\PizzaMizza.Data.csproj.CoreCompileInputs.cache
+C:\Users\izzataa\source\repos\PizzaMizzaApp\PizzaMizza.Data\bin\Debug\net6.0\PizzaMizza.Data.deps.json
+C:\Users\izzataa\source\repos\PizzaMizzaApp\PizzaMizza.Data\bin\Debug\net6.0\PizzaMizza.Data.dll
+C:\Users\izzataa\source\repos\PizzaMizzaApp\PizzaMizza.Data\bin\Debug\net6.0\PizzaMizza.Data.pdb
+C:\Users\izzataa\source\repos\PizzaMizzaApp\PizzaMizza.Data\bin\Debug\net6.0\PizzaMizza.Core.dll
+C:\Users\izzataa\source\repos\PizzaMizzaApp\PizzaMizza.Data\bin\Debug\net6.0\PizzaMizza.Core.pdb
+C:\Users\izzataa\source\repos\PizzaMizzaApp\PizzaMizza.Data\obj\Debug\net6.0\PizzaMizza.Data.csproj.CopyComplete
+C:\Users\izzataa\source\repos\PizzaMizzaApp\PizzaMizza.Data\obj\Debug\net6.0\PizzaMizza.Data.dll
+C:\Users\izzataa\source\repos\PizzaMizzaApp\PizzaMizza.Data\obj\Debug\net6.0\refint\PizzaMizza.Data.dll
+C:\Users\izzataa\source\repos\PizzaMizzaApp\PizzaMizza.Data\obj\Debug\net6.0\PizzaMizza.Data.pdb
+C:\Users\izzataa\source\repos\PizzaMizzaApp\PizzaMizza.Data\obj\Debug\net6.0\ref\PizzaMizza.Data.dll
